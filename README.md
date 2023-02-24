@@ -1,6 +1,7 @@
 # module13-challenge
 
-##Acceptance Criteria
+## Acceptance Criteria
+
     - I am able to connect to a database using sequelize when I add my database name,
     MySQL username, and MySQL password to an environment variable file
     - When I enter schema and seed commands then a development database is created and is seeded
@@ -11,3 +12,7 @@
     data for each of these routes is displayed in a formatted JSON
     - When I test API POST, PUT, and DELETE routes in Insominia Core then I am able to 
     successfully create, update, and delete data in my database
+
+## Links
+
+    - https://github.com/Chrissypike/module13-challenge
